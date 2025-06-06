@@ -7,7 +7,7 @@
   <style>
     body {
       font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-      background: url('https://www.google.com/url?sa=i&url=https%3A%2F%2Fblog.fivemods.io%2F2023%2F04%2F26%2Fgta-5-graphics-mods-that-will-bring-your-game-to-a-new-level%2F&psig=AOvVaw3p9zcD81VEdoFd2OTde-70&ust=1749331324479000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCODSlpTd3Y0DFQAAAAAdAAAAABBO') no-repeat center center fixed;
+      background: url('https://blog.fivemods.io/storage/2023/04/217-2-1024x576.webp') no-repeat center center fixed;
       background-size: cover;
       color: #fff;
       padding: 20px;
